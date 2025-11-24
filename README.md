@@ -1,20 +1,7 @@
-# Bienvenue chez GitBurger !
-Construisez votre propre hamburger en utilisant des fichiers texte pour chaque couche.
-
-## Ingrédients disponibles
-
-🥯 **Pain haut** : Pain brioché avec des graines de sésame sur le dessus.
-
-🥬 **Salade** : Salade croquante et fraîche.
-
-🍅 **Tomate** : Tranches de tomate bien mûre.
-
-🥩 **Steak** : Steak de bœuf grillé à la perfection.
-
-🧀 **Fromage** : Tranche de cheddar fondant.
-
-🥓 **Bacon** : Tranche de bacon croustillante.
-
-🍞 **Pain bas** : Pain brioché du dessous.
-
+1. 🥯 Pain haut : Pain brioché avec des graines de sésame sur le dessus.
+2. 🥬 Salade : Salade croquante et fraîche.
+3. 🥩 Steak : Steak de bœuf grillé à la perfection.
+4. 🧀 Fromage : Tranche de cheddar fondant.
+5. 🥓 Bacon : Tranche de bacon croustillante.
+6. 🍞 Pain bas : Pain brioché du dessous.
 
